@@ -1,0 +1,40 @@
+
+
+@font-face {
+    font-family: 'montserrat_alternatesregular';
+    src: url('https://ksusick.github.io/font/montserratalternates-regular-webfont.woff2') format('woff2'),
+         url('https://ksusick.github.io/font/montserratalternates-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+.navbar li {
+  font-family: 'montserrat_alternatesregular';
+  margin-left : 3rem;
+  margin-right : 3rem;
+}
+
+h1 {
+  font-family: 'montserrat_alternatesregular';
+  letter-spacing: 6px;
+}
+
+.row {
+
+/* padding-top: calc(var(--bs-gutter-x) * .5); */
+  padding-bottom: calc(var(--bs-gutter-x) * .5)
+}
+   
+.img-fluid {
+
+/* padding-top: calc(var(--bs-gutter-x) * .5); */
+  padding-bottom: calc(var(--bs-gutter-x) * .5)
+}
+
+footer p {
+  font-family: 'montserrat_alternatesregular';
+  font-size: 0.8rem;
+  text-align: center;
+}
